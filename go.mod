@@ -1,3 +1,3 @@
-module github.com/jutinapas/webservice
+module github.com/jutinapas/webservices
 
 go 1.17
